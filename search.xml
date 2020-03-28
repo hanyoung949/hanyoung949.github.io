@@ -4,6 +4,8 @@
     <title>我的第一篇博客</title>
     <url>/2020/03/28/my-first-blog/</url>
     <content><![CDATA[<p>这是，涵少的第一个博客^ ^</p>
+<a id="more"></a>
+
 <p>非常感谢hxd God州的不！耐心指导与帮助，以及托我入坑还差点让我死😕</p>
 <p>谨以篇此纪念我qtmd兄弟情谊，和不成熟的技术（希望以后会进步吧🙄）</p>
 <p>写些啥呢？谈下理想</p>
@@ -25,6 +27,8 @@
     <title>Hello World</title>
     <url>/2020/03/28/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+<a id="more"></a>
+
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
